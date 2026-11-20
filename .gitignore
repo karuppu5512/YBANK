@@ -1,0 +1,17 @@
+# Compiled output
+*.class
+out/
+
+# JDBC driver and other downloaded jars
+lib/
+*.jar
+
+# IDE / OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Personal documents (not part of the source)
+EMPDATA/
